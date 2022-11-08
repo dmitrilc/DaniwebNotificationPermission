@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Daniweb Notification Permission</string>
+    <string name="channel_id">123</string>
+    <string name="channel_name">My Channel Name</string>
+    <string name="notification_title">My Notification Title</string>
+    <string name="notification_content">My notification content</string>
+    <string name="permission_warning">Give me permission for core app functionality</string>
+</resources>
